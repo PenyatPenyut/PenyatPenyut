@@ -337,20 +337,20 @@ https://1419021143.rsc.cdn77.org/LS-50041-SIN-23/tracks-v1a1/mono.m3u8
 
 ########### RELIGION ########### 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dDKSH77/pes18-1000x.jpg" group-title="ZayTV [RELIGION]", MUSLIM TV
-https://anevia115.mncnow.id/live/eds/AutoGadget/sa_hls/AutoGadget-avc1_2499968=7-mp4a_98800_eng=2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dDKSH77/pes18-1000x.jpg" group-title="ZayTV [RELIGION]", AL IMAN TV
+http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dDKSH77/pes18-1000x.jpg" group-title="ZayTV [RELIGION]", Khazanah
-https://x1.broiptv.online/play/gusmanpakaya@gmail.com/tKz22dzF/xlXW2gZR/rattus/khazanah/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dDKSH77/pes18-1000x.jpg" group-title="ZayTV [RELIGION]", Wesal TV
+http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w1050078582.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dDKSH77/pes18-1000x.jpg" group-title="ZayTV [RELIGION]", MQTV
-https://x1.broiptv.online/play/gusmanpakaya@gmail.com/tKz22dzF/xlXW2gZR/rattus/mqtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dDKSH77/pes18-1000x.jpg" group-title="ZayTV [RELIGION]", PULDAPII TV
+http://178.128.121.192/hlsmobile/web.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDKSH77/pes18-1000x.jpg" group-title="ZayTV [RELIGION]", MTATV
 https://x1.broiptv.online/play/gusmanpakaya@gmail.com/tKz22dzF/xlXW2gZR/rattus/mtatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDKSH77/pes18-1000x.jpg" group-title="ZayTV [RELIGION]", RODJA TV
-http://rr2.dens.tv/s/s14/index.m3u8
+http://45.126.83.51/qwr9ew/s/s14/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDKSH77/pes18-1000x.jpg" group-title="ZayTV [RELIGION]", DMI TV
 http://stream1.ninmedia.tv/dmitv/udp.stream_360p/playlist.m3u8
@@ -362,25 +362,25 @@ http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
 http://stream1.ninmedia.tv/salingsapa/rtmp.stream_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDKSH77/pes18-1000x.jpg" group-title="ZayTV [RELIGION]", INSAN TV
-http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
+http://wz.insantv.net/group/ngrp:insantv_mobile/chunklist_b768000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDKSH77/pes18-1000x.jpg" group-title="ZayTV [RELIGION]", Ahsan TV
-http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
+http://119.82.224.75:1935/live/ahsantv/player.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDKSH77/pes18-1000x.jpg" group-title="ZayTV [RELIGION]", TAHFIDZ TV
 http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dDKSH77/pes18-1000x.jpg" group-title="ZayTV [RELIGION]", TAWAF TV
-http://stream2.ninmedia.tv/tawaftv/rtmp.stream_360p/chunklist_w720255703.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dDKSH77/pes18-1000x.jpg" group-title="ZayTV [RELIGION]", SURAU TV
+http://119.235.249.58:1935/surautv/live/chunklist_w565930947.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDKSH77/pes18-1000x.jpg" group-title="ZayTV [RELIGION]", Al Bahjah
 https://edge.siar.us/albahjahtv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDKSH77/pes18-1000x.jpg" group-title="ZayTV [RELIGION]", MAKKAH
-http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+http://45.126.83.51/qwr9ew/s/s28/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDKSH77/pes18-1000x.jpg" group-title="ZayTV [RELIGION]", MADINAH
-http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+http://45.126.83.51/qwr9ew/s/s27/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDKSH77/pes18-1000x.jpg" group-title="ZayTV [RELIGION]", MUI TV
 https://x1.broiptv.online/play/gusmanpakaya@gmail.com/tKz22dzF/xlXW2gZR/rattus/mui_tv/playlist.m3u8
@@ -390,6 +390,21 @@ http://stream1.ninmedia.tv/nuchannel/udp.stream_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDKSH77/pes18-1000x.jpg" group-title="ZayTV [RELIGION]", MUHAMMADIYAH TV
 https://anevia114.mncnow.id/live/eds/TVMuhammadiyah/sa_hls/TVMuhammadiyah-avc1_2499968=9-mp4a_98800_ind=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dDKSH77/pes18-1000x.jpg" group-title="ZayTV [RELIGION]" ,NIAGA TV
+http://wowza60.indostreamserver.com:1935/niagatv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dDKSH77/pes18-1000x.jpg" group-title="ZayTV [RELIGION]" ,RIFQANTV
+http://119.82.232.89:1935/rifqan/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dDKSH77/pes18-1000x.jpg" group-title="ZayTV [RELIGION]" ,ASHIILTV
+http://wowza60.indostreamserver.com:1935/ashiiltv2/android/chunklist_w183011391.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dDKSH77/pes18-1000x.jpg" group-title="ZayTV [RELIGION]" ,MUADZ TV
+http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_w1362705145.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dDKSH77/pes18-1000x.jpg" group-title="ZayTV [RELIGION]",SALAM TV
+http://wowza60.indostreamserver.com:1935/salamtv/live/chunklist_w284712012.m3u8
 
 ########### INDIHOME ###########
 
